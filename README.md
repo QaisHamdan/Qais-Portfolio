@@ -2,7 +2,7 @@
 
 Personal portfolio website of **Qais Hamdan**, a Full Stack Web Developer (CIS graduate, 2026) based in Amman, Jordan.
 
-🔗 **Live site:** https://qaishamdan.github.io/portfolio/
+🔗 **Live site:** https://qaishamdan.github.io/Qais-Portfolio/
 💼 **LinkedIn:** https://www.linkedin.com/in/qais-hamdan-b13206377/
 
 ## Features
